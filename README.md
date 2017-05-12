@@ -1,2 +1,2 @@
 # DSDN132
-DSDN132 Project Files
+A log of DSDN132 Project Files
